@@ -56,9 +56,4 @@ while game_is_on:
         scoreboard.update_right_score()
 
 
-
-
-
-
-
 screen.exitonclick()
